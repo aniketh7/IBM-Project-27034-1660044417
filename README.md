@@ -17,7 +17,7 @@ Parkinson Disease is a brain neurological disorder. It leads to shaking of the b
 
 
 #### By what course of action does detection of parkinson's disease makes precise?
-> **Machine Learning**
+**Machine Learning**
 Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting results without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.
 
 ![image](https://user-images.githubusercontent.com/72293918/189720501-23e0589e-41e1-4c02-9daa-c450eb79df90.png)
