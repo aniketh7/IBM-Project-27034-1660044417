@@ -44,11 +44,14 @@ This project's main **techniques** that are concentrated as
 ## How **Machine Learning** can solve the problem by detecting the parkinson disease?
 > The machine learning model can be implemented to significantly improve diagnosis method of Parkinson disease.
 
-## Team mates
+## Team mates 
 - Kamalesh S
 - Maanesh S
 - KrupaKaran R
 - Raja Rajan R
+
+## Team ID : PNT2022TMID28255
+
 
 
 
