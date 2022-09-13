@@ -47,7 +47,7 @@ This project's main **techniques** that are concentrated as
 ## Team mates
 - Kamalesh S
 - Maanesh S
-- Krupa Karan R
+- KrupaKaran R
 - Raja Rajan R
 
 
