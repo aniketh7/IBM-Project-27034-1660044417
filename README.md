@@ -50,6 +50,8 @@ This project's main **techniques** that are concentrated as
 - KrupaKaran R
 - Raja Rajan R
 
+#### College Name : St. Joseph's Institute of Technology
+
 >##### Team ID : PNT2022TMID28255
 
 
