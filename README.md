@@ -45,7 +45,7 @@ This project's main **techniques** that are concentrated as
 > The machine learning model can be implemented to significantly improve diagnosis method of Parkinson disease.
 
 ## Team mates 
-- Kamalesh S
+- Kamalesh S (Team Leader)
 - Maanesh S
 - KrupaKaran R
 - RajaRajan R
