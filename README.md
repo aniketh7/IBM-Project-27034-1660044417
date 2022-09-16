@@ -48,7 +48,7 @@ This project's main **techniques** that are concentrated as
 - Kamalesh S
 - Maanesh S
 - KrupaKaran R
-- Raja Rajan R
+- RajaRajan R
 
 #### College Name : St. Joseph's Institute of Technology
 
