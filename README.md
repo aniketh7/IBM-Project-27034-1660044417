@@ -42,7 +42,29 @@ This project's main **techniques** that are concentrated as
 - IBM Cloud Console (Watson Studio)
 
 ## How **Machine Learning** can solve the problem by detecting the parkinson disease?
-> The machine learning model can be implemented to significantly improve diagnosis method of Parkinson disease.
+> The machine learning model can be implemented to significantly improve diagnosis method of Parkinson disease. Parkinson Disease is a brain neurological disorder. It leads to shaking of the body, hands and provides stiffness to the body. No proper cure or treatment is available yet at the advanced stage. Treatment is possible only when done at the early or onset of the disease. These will not only reduce the cost of the disease but will also possibly save a life. Most methods available can detect Parkinson in an advanced stage; which means loss of approx.. 60% dopamine in basal ganglia and is responsible for controlling the movement of the body with a small amount of dopamine. More than 145,000 people have been found alone suffering in the U.K and in India, almost one million population suffers from this disease and it’s spreading fast in the entire world.
+
+This article was published as a part of the Data Science Blogathon
+Objective
+The main objective of this article is to understand what is Parkinson’s disease and to detect the early onset of the disease. We will use here XGBoost, KNN Algorithm, Support Vector Machines (SVMs), Random Forest Algorithm and utilize the data-set available on UCL Parkinson Data-set under URL (Index of /ml/machine-learning-databases/Parkinsons (uci.edu)).
+
+Parkinson Disease
+Parkinson Disease is a brain neurological disorder. It leads to shaking of the body, hands and provides stiffness to the body. No proper cure or treatment is available yet at the advanced stage. Treatment is possible only when done at the early or onset of the disease. These will not only reduce the cost of the disease but will also possibly save a life. Most methods available can detect Parkinson in an advanced stage; which means loss of approx.. 60% dopamine in basal ganglia and is responsible for controlling the movement of the body with a small amount of dopamine. More than 145,000 people have been found alone suffering in the U.K and in India, almost one million population suffers from this disease and it’s spreading fast in the entire world.
+
+A person diagnosed with Parkinson’s disease can have other symptoms that include-
+
+- Depression
+
+- Anxiety
+
+- Sleeping, and memory-related issues
+
+- Loss of sense of smell along with balance problems.
+
+> Although it develops at age of 65, 15% can be found at young age people less than 50. We will make use of XGBoost, KNN, SVMs, and Random Forest Algorithm to check which is the best machine learning algorithm for detection of the onset of disease.
+
+![image](https://user-images.githubusercontent.com/72293918/195166813-cb6bc2cb-2938-49d0-8538-c27c9c039471.png)
+
 
 ## Team mates 
 - Kamalesh S (Team Leader)
