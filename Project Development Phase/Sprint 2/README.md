@@ -5,8 +5,8 @@
 - Email confirmation ( **verification**  as mentioned in the Email verification code (React) ).
 - The email verification (account-confirmation) code is uploaded in this section.
 - Project image files as it contains the image of email received after the success of account creation in the user sign up page and verification message after the account is verified.
-- It contains sample datasets and images of parkinson's disease that is recorded in the past for analyzing it ahead of the project.
-- The main dataset for the project is uploaded as the separate main folder.
+- It contains sample datasets and images of parkinson's disease that is recorded in the past for analyzing it ahead of the project under the main folder as **Research images-disease**.
+- The main dataset for the project is uploaded as the separate main folder as **Project dataset**.
 
 
 > Email verification code using react contains the code lines for performing the email verification after the user creates the account and for viewing the verification message after clicking the link from the verification email.
