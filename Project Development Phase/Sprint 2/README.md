@@ -10,3 +10,5 @@
 
 
 > Email verification code using react contains the code lines for performing the email verification after the user creates the account and for viewing the verification message after clicking the link from the verification email.
+
+> Researchimages-disease folder is created for to show the image files that we created during research and knowing the sample disease images of Parkinson. Also sample data that we found useful for comparing and analyzing it with the past results as majorly for learning more about the disease.
