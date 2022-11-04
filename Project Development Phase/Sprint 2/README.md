@@ -8,4 +8,5 @@
 - It contains sample datasets and images of parkinson's disease that is recorded in the past for analyzing it ahead of the project.
 - The main dataset for the project is uploaded as the separate main folder.
 
-> 
+
+> Email verification code using react contains the code lines for performing the email verification after the user creates the account and for viewing the verification message after clicking the link from the verification email.
