@@ -7,7 +7,8 @@ var options = {
   "path": "/dbapi/v4/auth/tokens",
   "headers": {
     "content-type": "application/Parkinson_MLmodel.sav",
-    "x-deployment-id": "D6717965d-bf1b-492f-9374-b9791915c168"
+    "x-deployment-id": "D6717965d-bf1b-492f-9374-b9791915c168",
+    "api-key":"s3nNigNL1Ev3RNdHNux58n0UNRXQdCr4AzYDUmYrPwTV"
   }
 };
 
@@ -26,3 +27,4 @@ var req = http.request(options, function (res) {
 
 req.write(JSON.stringify({ userid: '<ADD STRING VALUE>', password: '<ADD STRING VALUE>' }));
 req.end();
+Footer
