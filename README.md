@@ -37,6 +37,7 @@ This project's main **techniques** that are concentrated as
   - Label encoding and One-hot encoding
   - K Nearest Neighbor (KNN) algorithm
   - Xgboost algorithm(Gradient boosting)
+  - Naive Bayes
 - Computer vision with OpenCV framework
 - Python web application interface - Flask
 - IBM Cloud Console (Watson Studio)
