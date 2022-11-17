@@ -7,5 +7,5 @@
 #### Specifications
 
 - The files under the sprint 4 were renamed based on the project planning template.
-- The web development react code is added into sub folder as **Web application (Application building)**
+- The web development using react code is added into sub folder as **Web application (Application building)**
 - Machine Learning model deployment and user data integration files are uploaded in **Model Deployment(IBM Cloud)** subfolder of Sprint 4.
