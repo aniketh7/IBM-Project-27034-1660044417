@@ -371,3 +371,4 @@
 .colorpicker-element[dir='rtl'] input,
 .colorpicker-element input[dir='rtl'] {
   direction: ltr;
+  text-align: right; }
